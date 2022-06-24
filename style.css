@@ -37,7 +37,7 @@ html::-webkit-scrollbar-thumb{
     background:var(--yellow);
 }
 body{
-    background: #111;
+    background: red;
     overflow-x: hidden;
     padding-left: 35rem; /* to move data next to a section*/
 }
